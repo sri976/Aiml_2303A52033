@@ -14,7 +14,7 @@ Artificial Intelligence and Machine Learning Lab Instruction Sheets
 
 [Lab 07](https://github.com/sri976/Aiml_2303A52033/blob/main/AIML_SVM_ASS_07.ipynb): Implement Support Vector Machine using Breast Cancer Data
 
-[Lab 08](): Implement Decision Tree Classifier using Lending Club Data
+[Lab 08](https://github.com/sri976/Aiml_2303A52033/blob/main/AIML_ASS_8.ipynb): Implement Decision Tree Classifier using Lending Club Data
 
 [Lab 09](): Implement Random Forest Ensemble Classifier using Lending Club Data
 
